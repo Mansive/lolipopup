@@ -368,3 +368,4 @@ document.addEventListener("mousedown", () => {
 });
 document.addEventListener("mouseup", selectionTextHandler);
 document.addEventListener("mousemove", mouseMonitor);
+document.addEventListener("scroll", hidePopupButton);
